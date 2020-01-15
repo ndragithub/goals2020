@@ -1,3 +1,4 @@
 target baru:
 - mencari kontrakan rumah
+  - karangploso
 - persiapan 7 bulanan
