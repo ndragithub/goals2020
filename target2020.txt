@@ -1,2 +1,3 @@
 target baru:
 - mencari kontrakan rumah
+- persiapan 7 bulanan
