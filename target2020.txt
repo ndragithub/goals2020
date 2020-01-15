@@ -1,1 +1,2 @@
 target baru:
+- mencari kontrakan rumah
