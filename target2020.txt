@@ -1,3 +1,5 @@
 target baru:
 - mencari kontrakan rumah
+  - singosari
 - persiapan 7 bulanan
+
